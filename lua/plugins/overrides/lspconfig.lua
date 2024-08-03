@@ -18,7 +18,7 @@ return {
       "jsonls",
       "marksman",
       "pyright",
-      "rust-analyzer",
+      "rust_analyzer",
       "taplo",
       "yamlls",
     }
